@@ -2,6 +2,11 @@
 
 A simple example anvil uplink for processing images.
 
+## Example Anvil application
+
+The ``anvil-example.yml`` file can be imported into Anvil as a simple example of
+use of this uplink.
+
 ## Installing
 
 Installation can be performed directly from github:
@@ -24,3 +29,4 @@ $ anvil-uplink-improc <key>
 ```
 
 Where ``<key>`` is the uplink key from Anvil.
+
